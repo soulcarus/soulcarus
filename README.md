@@ -27,3 +27,9 @@ Tenho algoritmos rodando em indústrias, sistemas operacionais em empresas do ra
 Tenho muita coisa daora na agulha para ir ao ar em breve. Se quiser trocar uma ideia, ver código pesado e acompanhar o que vem por aí, é só chegar.
 
 **TMJ!**
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soulcarus&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="Gráfico de Commits">
+</div>
